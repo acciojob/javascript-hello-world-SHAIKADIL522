@@ -2,3 +2,4 @@
 function Greet(){
 	return alert("Hello World!")
 };
+Greet();
